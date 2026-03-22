@@ -1,0 +1,38 @@
+[
+  {
+    "id": "quiet-night-thought",
+    "title": "静夜思",
+    "author": "李白",
+    "dynasty": "唐",
+    "fullText": "床前明月光，疑是地上霜。举头望明月，低头思故乡。",
+    "selectedLines": ["床前明月光", "举头望明月"],
+    "description": "月色清冷、乡愁深长，两句都极具辨识度，适合做同诗双色关联。"
+  },
+  {
+    "id": "mutual-longing",
+    "title": "相思",
+    "author": "王维",
+    "dynasty": "唐",
+    "fullText": "红豆生南国，春来发几枝。愿君多采撷，此物最相思。",
+    "selectedLines": ["红豆生南国", "春来发几枝"],
+    "description": "一句写物象，一句点时令，适合放在棋盘留白区域作为独立线索。"
+  },
+  {
+    "id": "on-the-stork-tower",
+    "title": "登鹳雀楼",
+    "author": "王之涣",
+    "dynasty": "唐",
+    "fullText": "白日依山尽，黄河入海流。欲穷千里目，更上一层楼。",
+    "selectedLines": ["白日依山尽", "黄河入海流"],
+    "description": "景象雄浑、字形简练，适合横纵分布并形成视觉节奏。"
+  },
+  {
+    "id": "waterfall",
+    "title": "望庐山瀑布",
+    "author": "李白",
+    "dynasty": "唐",
+    "fullText": "日照香炉生紫烟，遥看瀑布挂前川。飞流直下三千尺，疑是银河落九天。",
+    "selectedLines": ["飞流直下三千尺", "疑是银河落九天"],
+    "description": "句式展开感强，适合放在棋盘下半区形成长线条。"
+  }
+]
