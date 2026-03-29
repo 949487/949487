@@ -1,0 +1,4 @@
+dist/
+.package_tmp/
+.tmp_*/
+.github_upload_tmp/
